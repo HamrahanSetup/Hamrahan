@@ -1,0 +1,1 @@
+git clone https://github.com/hamrahansystem/H_Update D:\Data\Costumer\HS_Kasra\Exe
